@@ -5,4 +5,4 @@ Screenshot | 截图:
 <img src="img/magnifier.png"/>
 
 Demo | 示例:
-[Demo Online | 在线查看](https://www.f2td.com/Magnifier/)
+[Demo Online | 在线查看](http://www.f2td.com/Magnifier/)
